@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Clicker/1.0.0": {
+        "runtime": {
+          "Clicker.dll": {}
+        },
+        "resources": {
+          "aa-DJ/Clicker.resources.dll": {
+            "locale": "aa-DJ"
+          },
+          "pl-PL/Clicker.resources.dll": {
+            "locale": "pl-PL"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clicker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
